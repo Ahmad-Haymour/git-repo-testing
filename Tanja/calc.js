@@ -17,3 +17,4 @@ function calculate(a, b, c) {
   }
 }
 console.log(calculate(a, b, c));
+console.log("Toll!");
